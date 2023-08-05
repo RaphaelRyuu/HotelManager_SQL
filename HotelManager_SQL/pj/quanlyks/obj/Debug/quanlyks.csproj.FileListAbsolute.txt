@@ -1,0 +1,15 @@
+D:\oop\oop-pj\quanlyks\bin\Debug\quanlyks.exe.config
+D:\oop\oop-pj\quanlyks\bin\Debug\quanlyks.exe
+D:\oop\oop-pj\quanlyks\bin\Debug\quanlyks.pdb
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.csproj.AssemblyReference.cache
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.Form1.resources
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.Properties.Resources.resources
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.csproj.GenerateResource.cache
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.csproj.CoreCompileInputs.cache
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.exe
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.pdb
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.MainForm.resources
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.PhieuDatPhong.resources
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.FormThanhToan.resources
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.FormLoaiPhong.resources
+D:\oop\oop-pj\quanlyks\obj\Debug\quanlyks.FormThemDichVu.resources
